@@ -7,9 +7,9 @@
     <meta name="description" content="TANGGATOGEL merupakan portal resmi login bandar toto togel online 4D terpercaya 2026 menghadirkan pengalaman bermain terbaik berkat dukungan sistem canggih dan pasaran terlengkap dengan hadiah spektakuler." />
     <meta name="robots" content="index,follow" />
     <link href="https://veldrive.com/jja9Qkaz/favicon-tanggatogel.png" rel="icon" type="image/x-icon" />
-    <link rel="canonical" href="https://github.com/Tanggahappy/tangga-happy.git" />
-    <link rel="alternate" href="https://github.com/Tanggahappy/tangga-happy.git" hreflang="id" />
-    <meta property="og:url" content="https://github.com/Tanggahappy/tangga-happy.git" />
+    <link rel="canonical" href="https://tanggahappy.github.io/Tanggahappy/" />
+    <link rel="alternate" href="https://tanggahappy.github.io/Tanggahappy/" hreflang="id" />
+    <meta property="og:url" content="https://tanggahappy.github.io/Tanggahappy/" />
     <meta property="og:site_name" content="TANGGATOGEL" />
     <meta property="og:image:alt" content="TANGGATOGEL" />
     <meta property="og:image" content="https://veldrive.com/jja9Qkaz/Akses-login-VIP.png" />
@@ -253,7 +253,7 @@
 
  
 
-      <p class="copyright"> @Copyright 2026 <a href="https://github.com/Tanggahappy/tangga-happy.git" rel="noopener noreferrer" style="color: #ff0000;">TANGGATOGEL</a> | Seo Bong khiong</p>
+      <p class="copyright"> @Copyright 2026 " rel="noopener noreferrer" style="color: #ff0000;">TANGGATOGEL</a> | Seo Bong khiong</p>
     </div>
   </body>
 </html>
